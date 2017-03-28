@@ -1,4 +1,4 @@
-#2-Axis Gimbal using Arduino
+# 2-Axis Gimbal using Arduino
 
 This was a school project for ECE 110 - Intorduction to Electronics
 at the University of Illinois at Urbana Champaign.
